@@ -1,7 +1,7 @@
 # General 
 
-[Organization of team](../../tree/master/General/organization)
+[Organization of team](../../../tree/master/General/organization)
 
-[Domain](../../tree/master/General/domain)
+[Domain](../../../tree/master/General/domain)
 
-[Technical](../../tree/master/General/technical)
+[Technical](../../../tree/master/General/technical)
