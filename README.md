@@ -1,10 +1,10 @@
 # Hannes Quickstart for new projects
 The purpoes of this repo is to provide some thoughts and tools to help with the process around starting a new project. 
 
-## General
-There are a few things that needs to be in place in the start of a project regardless of the target of the project.
+## [General](./general/README.md) 
+There are a few things that needs to be in place in the start of a project regardless of the target of the project. Being frontend, bacckend, mobile, cloud or other.
 
-### Organizational if team
+### [Organization of team](./organization/README.md)
 - [ ] Establishing team agreements
 - [ ] Align vision
 - [ ] Build psycological security
@@ -13,13 +13,25 @@ There are a few things that needs to be in place in the start of a project regar
 - [ ] Task handling
 
 
-### Technical
+### [Domain](./general/domain/README.md)
+- [ ] Analyze requirements
+- [ ] Quick scetch understanding of requirements
+- [ ] Identify parts of system
+- [ ] Identify domain objects
+
+
+### [Technical](./general/technical/README.md)
 - [ ] Source control
 - [ ] Build strategy
 - [ ] CI/CD
 
+### [Cloud/Infrastructure](./general/infrastructure/README.md)
+- [ ] Identify functional requirements
+- [ ] Set up servers
+- [ ] Create infrastructure templates
 
-## Backend
+
+## [Backend](./backend/README.md)
 - [ ] Libraries and frameworks
 - [ ] Base back end architecture
 - [ ] Authentication
@@ -32,7 +44,7 @@ There are a few things that needs to be in place in the start of a project regar
 - [ ] Test strategy
 
 
-## Frontend 
+## [Frontend](./frontend/README.md) 
 - [ ] Platform and frameworks
 - [ ] Base folder structure and architecture
 - [ ] Theming
@@ -47,7 +59,7 @@ There are a few things that needs to be in place in the start of a project regar
 - [ ] Reusable UI components
 - [ ] Reusable spacing and sizing
 
-## Mobile
+## [Mobile](./mobile/README.md) 
 - [ ] Logging
 - [ ] Text handling/I8N
 - [ ] Error handling
