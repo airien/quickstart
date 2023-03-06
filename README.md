@@ -1,10 +1,10 @@
 # Hannes Quickstart for new projects
 The purpoes of this repo is to provide some thoughts and tools to help with the process around starting a new project. 
 
-## [General](../../tree/master/general) 
+## [General](../../tree/master/General) 
 There are a few things that needs to be in place in the start of a project regardless of the target of the project. Being frontend, bacckend, mobile, cloud or other.
 
-### [Organization of team](quickstart/tree/master/organization)
+### [Organization of team](../../tree/master/organization)
 - [ ] Establishing team agreements
 - [ ] Align vision
 - [ ] Build psycological security
