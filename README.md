@@ -25,7 +25,7 @@ There are a few things that needs to be in place in the start of a project regar
 - [ ] Build strategy
 - [ ] CI/CD
 
-### [Cloud/Infrastructure](../../tree/master/infrastructure)
+## [Cloud/Infrastructure](../../tree/master/infrastructure)
 - [ ] Identify functional requirements
 - [ ] Set up servers
 - [ ] Create infrastructure templates
