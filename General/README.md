@@ -1,9 +1,9 @@
 # General 
 
-[Organization of team](organization/README.md)
+[Organization of team](/general/organization/README.md)
 
-[Domain](domain/README.md)
+[Domain](/general/domain/README.md)
 
-[Technical](technical/README.md)
+[Technical](/general/technical/README.md)
 
-[Cloud/Infrastructure](infrastructure/README.md)
+[Cloud/Infrastructure](/general/infrastructure/README.md)
