@@ -4,7 +4,7 @@ The purpoes of this repo is to provide some thoughts and tools to help with the 
 ## [General](../../tree/master/General) 
 There are a few things that needs to be in place in the start of a project regardless of the target of the project. Being frontend, bacckend, mobile, cloud or other.
 
-### [Organization of team](../../tree/master/organization)
+### [Organization of team](../../tree/master/General/organization)
 - [ ] Establishing team agreements
 - [ ] Align vision
 - [ ] Build psycological security
@@ -13,19 +13,19 @@ There are a few things that needs to be in place in the start of a project regar
 - [ ] Task handling
 
 
-### [Domain](../../tree/master/domain)
+### [Domain](../../tree/master/General/domain)
 - [ ] Analyze requirements
 - [ ] Quick scetch understanding of requirements
 - [ ] Identify parts of system
 - [ ] Identify domain objects
 
 
-### [Technical](../../tree/master/technical)
+### [Technical](../../tree/master/General/technical)
 - [ ] Source control
 - [ ] Build strategy
 - [ ] CI/CD
 
-### [Cloud/Infrastructure](../../tree/master/general/infrastructure)
+### [Cloud/Infrastructure](../../tree/master/General/infrastructure)
 - [ ] Identify functional requirements
 - [ ] Set up servers
 - [ ] Create infrastructure templates
