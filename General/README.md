@@ -1,7 +1,7 @@
 # General 
 
-[Organization of team](../../General/organization/README.md)
+[Organization of team](../../tree/master/General/organization)
 
-[Domain](../../General/domain/README.md)
+[Domain](../../tree/master/General/domain)
 
-[Technical](../../General/technical/README.md)
+[Technical](../../tree/master/General/technical)
